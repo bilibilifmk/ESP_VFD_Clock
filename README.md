@@ -1,5 +1,6 @@
 # ESP_VFD_Clock
 ESP8266驱动的ИВ-18八位VFD时钟及B站粉丝数显
+![img](/img/fm.jpg)
 
 # 声明 
 * 程序还属于测试版本 可能会有一些BUG
