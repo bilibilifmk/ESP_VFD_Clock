@@ -3,7 +3,7 @@ ESP8266驱动的ИВ-18八位VFD时钟及B站粉丝数显
 ![img](/img/fm.jpg)
 
 # 声明 
-* 程序还属于测试版本   稳定的编译版本请转到发行页
+* 程序还属于测试版本   稳定的编译版本请转到[发行页](https://github.com/bilibilifmk/ESP_VFD_Clock/releases)
 * 本项目需要用到的库 [wifi_link_tool](https://github.com/bilibilifmk/wifi_link_tool)  ArduinoJson 和time(以提供)
 
 ## 材料清单  
