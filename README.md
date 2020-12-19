@@ -3,7 +3,7 @@ ESP8266驱动的ИВ-18八位VFD时钟及B站粉丝数显
 ![img](/img/fm.jpg)
 
 # 声明 
-* 程序还属于测试版本 可能会有一些BUG
+* 程序还属于测试版本   稳定的编译版本请转到发行页
 * 本项目需要用到的库 [wifi_link_tool](https://github.com/bilibilifmk/wifi_link_tool)  ArduinoJson 和time(以提供)
 
 ## 材料清单  
@@ -22,3 +22,8 @@ ESP8266驱动的ИВ-18八位VFD时钟及B站粉丝数显
 
 ## 原理图
 ![img](/img/原理图.png)
+
+## 关于打印件部分
+![img](/img/dyj.png)  
+* 支架是必要的 底座可以找其他东西进行代替  
+
